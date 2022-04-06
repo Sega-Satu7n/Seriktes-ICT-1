@@ -1,10 +1,10 @@
 CREATE DATABASE football; 
 CREATE TABLE footballers(
-    ID INT,
-    Number INT PRIMARY KEY, 
-    Name VARCHAR(30),
-    Club Varchar(30)
-    Gender VARCHAR(30)
-    Rating in Football simulator INT, 
-    TRANSFER PRICE INT,
+    IDINT,
+    NumberINTPRIMARYKEY, 
+    NameVARCHAR(30),
+    ClubVarchar(30)
+    GenderVARCHAR(30)
+    RatinginFootball simulator INT, 
+    TRANSFERPRICEINT,
 )
